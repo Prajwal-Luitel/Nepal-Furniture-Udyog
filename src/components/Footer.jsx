@@ -91,16 +91,7 @@ function Footer() {
         viewport={{ once: true }}
         className="mt-6 text-center text-gray-500"
       >
-        © 2024 Nepal Furniture Udyog. Work of{" "}
-        <a
-          href="https://jynx.netlify.app/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-gray-500 hover:text-red-700"
-        >
-          <strong>JYNX</strong>
-        </a>
-        . All rights reserved.
+        © 2025 Nepal Furniture Udyog. All rights reserved.
       </motion.div>
       <div className="h-16 md:hidden"></div>
     </footer>
